@@ -52,7 +52,7 @@ session_start();
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Apna Bank</title>
+  <title>GRIP Bank</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 

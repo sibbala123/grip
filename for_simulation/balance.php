@@ -71,7 +71,7 @@
             <!--<div class="container-fluid">-->
                 <a class="navbar-brand" href="index.php" id="nm">
                     <img src="navicon.svg" width="30" height="30" class="d-inline-block align-top" alt="" loading="lazy">
-                    Apna Bank
+                    GRIP Bank
                 </a>
                 <button class="navbar-toggler " type="button" data-toggle="collapse" data-target="#navbarResponsive"
                     aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
